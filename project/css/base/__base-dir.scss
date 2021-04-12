@@ -1,3 +1,4 @@
+/* Mohamed MARDHI  */
 /*
 A custom reset file can be added to override normalize
 Typography (h1-6, p, a, blockquote, etc.) should be included
@@ -9,6 +10,7 @@ Files inside this folder can contain global styles used in the project.
 */
 
 //Import Base files
+@import "variables";
 @import "reset";
 @import "typography";
 /* Additonal Base Stylesheets */
