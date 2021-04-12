@@ -1,0 +1,14 @@
+/*
+A custom reset file can be added to override normalize
+Typography (h1-6, p, a, blockquote, etc.) should be included
+Globally defined tags (body, main, article, div, etc.) should also be included
+
+
+This file is used to contain all base imports.
+Files inside this folder can contain global styles used in the project.
+*/
+
+//Import Base files
+@import "reset";
+@import "typography";
+/* Additonal Base Stylesheets */

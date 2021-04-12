@@ -1,0 +1,1 @@
+const multiplyES6 = (x, y) => { return x * y };
