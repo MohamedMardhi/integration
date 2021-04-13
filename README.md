@@ -1,6 +1,6 @@
 # integration
 
-to run this project you nedd to install gulp 
+to run this project you need to install gulp 
 
 `
 npm i -g gulp
